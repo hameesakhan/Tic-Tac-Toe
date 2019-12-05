@@ -1,0 +1,16 @@
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.Form1.resources
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\Pak Thunders\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.pdb
